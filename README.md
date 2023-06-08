@@ -26,8 +26,11 @@ Tableau analysis of Uber data revealed key factors impacting incomplete requests
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  -> 5)  No car availability is a major issue in Airports and are very less in cities.<br>
 
 <br>
-🔸 supply - demand relationship ⬇️ <br><br>
+🔸 supply - demand relationship ⬇️ <br>
+
 ![image](https://github.com/Hariikm/UBER-ANALYSIS---Tableau/assets/127305068/b1571981-8f6c-42ab-81ec-35d44062eeeb)
-<br><br>
+
+<br>
+<br>
   &nbsp;&nbsp;&nbsp;  -> 1) Supply is higher in the morning in the cities especially.<br>
   &nbsp;&nbsp;&nbsp;  -> 2) Demand is higher in the evening especially in the airport area.<br>
